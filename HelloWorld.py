@@ -19,3 +19,5 @@ print("<body>")
 print("<h2>%s官网：%s</h2>" % (site_name, site_url))
 print("</body>")
 print("</html>")
+
+'''this is a log'''
